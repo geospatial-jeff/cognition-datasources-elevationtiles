@@ -1,0 +1,4 @@
+git+https://github.com/geospatial-jeff/cognition-datasources.git
+git+https://github.com/geospatial-jeff/stac-validator.git
+mercantile==1.0.4
+shapely==1.6.4.post2
