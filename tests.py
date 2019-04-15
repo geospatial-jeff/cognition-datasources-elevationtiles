@@ -40,4 +40,3 @@ class ElevationTilesTestCases(tests.BaseTestCases):
     def test_temporal_search(self):
         # Datasource doesn't support temporal queries
         pass
-
